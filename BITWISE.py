@@ -1,4 +1,4 @@
-#........BITWISE.........#
+#.........BITWISE...........#
 #&,|,^,~,<<,>>
 #Python Bitwise operators act on bits and perform bit-by-bit operations. These are used to operate on binary numbers.
 #AND 1 & 1 → 1, 1 & 0 → 0, 0 & 0 → 0(Result is 1 only if BOTH bits are 1)
