@@ -4,9 +4,10 @@
 a=10
 b=15
 print(a>=b and a<=b)
-print()
+
 #OR
 print(a!=b or a<=b)
+
 #NOT
 print(not a)
 #another way x and y >y is the output if x is not equal to zero
