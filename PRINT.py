@@ -25,7 +25,7 @@ print(z)
 #Python allows you to assign values to multiple variables in one line:
 
 print("******One Value to Multiple Variables******")
-x=y=z
+x=y=z="apple"
 print(x)
 print(y)
 print(z)
