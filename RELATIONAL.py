@@ -1,4 +1,4 @@
-#.............RELATIONAL.......#
+print(".............RELATIONAL.......")
 #comparison or relational operators compare values .it may true or false
 a="vaishu"
 b="reddy"

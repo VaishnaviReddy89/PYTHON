@@ -1,14 +1,14 @@
-#...........LOGICAL..............#
+print("...........LOGICAL..............")
 #Logical operators are used to combine or modify conditions and they always return a Boolean value (True or False).
-#AND 
+print("*******AND*********") 
 a=10
 b=15
 print(a>=b and a<=b)
 
-#OR
+print("******OR******")
 print(a!=b or a<=b)
 
-#NOT
+print("*****NOT******")
 print(not a)
 #another way x and y >y is the output if x is not equal to zero
 print(10 and 20) 
@@ -28,5 +28,3 @@ print(100 or 200)
 print(bool(40))
 print(not 8)
 print(not -1)
-
-
