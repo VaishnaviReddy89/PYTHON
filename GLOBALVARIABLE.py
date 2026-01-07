@@ -1,5 +1,5 @@
 print("*****GLOBALVARIABLE*******")
-#Variables that are created outside of a function (as in all of the examples in the previous pages) are known as global variables.
+#Variables that are created outside of a function 
 
 x="vaishu"
 def myfunc():
