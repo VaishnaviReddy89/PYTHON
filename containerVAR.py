@@ -32,3 +32,5 @@ print(_gj36)
 #if you want to container(variable) memory location the write these
 o=8
 print(id(o))
+
+
