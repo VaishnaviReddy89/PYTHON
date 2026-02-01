@@ -1,0 +1,10 @@
+print("%%%%%%SEQUENCETYPE%%%%%%%%")
+print("&&&LIST&&&")
+X=["VAISHU","ARCHANA","YOGYA"]
+print(X)
+print("&&&tuple&&&")
+Y=("VAISHU","ARCHANA","YOGYA")
+print(Y)
+print("&&&Range&&&")
+Z=range(100)
+print(list(Z))
