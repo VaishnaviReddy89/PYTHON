@@ -1,0 +1,31 @@
+print("LISTMETHODS")
+print("%%%%%%%Append%%%%%%")
+x=[1,-2,"vaishu",4.4,9]
+x.append("python")
+print(x)
+print("////////////")
+print("%%%%%Extend%%%%%%")
+x.extend([10,77,999,000])
+print(x)
+print("//////////")
+print("%%%%Count%%%%%%")
+v=[1,2,3]
+print(v.count(1))
+print("//////////")
+print("%%%%Remove%%%%%%")
+v.remove(1)
+print(v)
+print("//////////")
+print("%%%%POP%%%%%%")
+z=[1,2,3]
+z.pop(0)
+print(z)
+print("//////////")
+print("%%%%Index%%%%%%")
+i=[1,2,3]
+print(i.index(2))
+print("//////////")
+print("%%%%ForLoop%%%%%%")
+for l in [1,2,3,"vaishu"]:
+       print(l) 
+ 
