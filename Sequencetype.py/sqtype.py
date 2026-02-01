@@ -1,5 +1,5 @@
 print("%%%%%%SEQUENCETYPE%%%%%%%%")
-print("&&&LIST&&&")
+print("&&&LIST&&&") #Used to store multiple values (can be different types).
 X=["VAISHU","ARCHANA","YOGYA"]
 print(X)
 print("&&&tuple&&&")
