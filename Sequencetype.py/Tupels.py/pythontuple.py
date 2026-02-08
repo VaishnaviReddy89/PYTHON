@@ -20,4 +20,9 @@ t=tuple(s)
 print(t)
 t=tuple([2])
 print(t)
-
+thistuple = list[("apple", "banana", "cherry")]# note the double round-brackets
+print(thistuple)
+print("check if item exists")
+a=("vaishu","reddy")
+if "vaishu" in a:
+    print("yes")
