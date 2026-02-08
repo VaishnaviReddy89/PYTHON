@@ -19,3 +19,12 @@ y=("orange",)
 t +=y
 print(t)
 
+
+print("remove")
+t=("apple","orange","cherry")
+l=list(t)
+l.remove("cherry")
+t=tuple(l)
+print(t)
+
+
