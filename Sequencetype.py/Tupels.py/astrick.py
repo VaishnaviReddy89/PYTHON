@@ -5,3 +5,4 @@ print(a)
 print(b)
 print(c)
 print(d)
+#*b collects the middle values.
