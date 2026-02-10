@@ -3,5 +3,4 @@ dict={
     "storage":128,
     "version": 17
 }
-print(dict["brand"])
-     
+print(len(dict))
