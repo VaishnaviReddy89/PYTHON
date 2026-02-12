@@ -5,3 +5,4 @@ collections ={
     
 }
 collections["year"]=2001
+print(collections)
