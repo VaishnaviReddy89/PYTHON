@@ -5,6 +5,7 @@ phone={
     
 }
 x=phone.values()
-print(x)
+print(x)#before change
 phone["year"]=2026
-print(x)
+print(x)#after change
+#The list of the values is a view of the dictionary, meaning that any changes done to the dictionary will be reflected in the values list.
