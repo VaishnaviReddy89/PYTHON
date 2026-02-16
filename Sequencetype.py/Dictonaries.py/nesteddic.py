@@ -17,4 +17,9 @@ RESTAURENT={
     },
     
 }
-print(RESTAURENT)
+print(RESTAURENT["TABLE1"]["MEMBERS"])
+
+
+#ANOTHER METHOD
+
+#"TABLE1":TABLE1
