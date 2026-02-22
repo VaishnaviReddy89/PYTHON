@@ -11,7 +11,7 @@ print("Hello World")
 
 #Since Python will ignore string literals that are not assigned to a variable, you can add a multiline string (triple quotes) in your code, and place your comment inside it:
 """
-this is a commeny
+this is a comment
 written in
 more than just one line
 """
