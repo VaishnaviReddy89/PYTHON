@@ -20,3 +20,6 @@ z=float(3)
 print(x)
 print(y)
 print(z)
+
+marks=input("enter marks:")
+print(int(marks)+5)
