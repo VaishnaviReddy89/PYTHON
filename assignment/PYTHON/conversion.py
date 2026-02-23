@@ -9,3 +9,6 @@ c=complex(z)
 print(a)
 print(b)
 print(c)
+
+import random
+print(random.randrange(1,10))
