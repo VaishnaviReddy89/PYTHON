@@ -5,3 +5,5 @@ txt = "Hello, And Welcome To My World!"
 x = txt.casefold()
 
 print(x)
+#✅Used for case-insensitive comparisons
+#✅ Handles special international characters.

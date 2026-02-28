@@ -1,0 +1,1 @@
+print("STRING\T\"CENTER\"")
