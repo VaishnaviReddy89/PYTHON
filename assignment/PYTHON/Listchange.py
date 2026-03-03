@@ -9,3 +9,4 @@ market[0:5]=["panipuri"]#Change the second and third value by replacing it with 
 
 
 print(market)
+#If you insert less items than you replace, the new items will be inserted where you specified, and the remaining items will move accordingly:
