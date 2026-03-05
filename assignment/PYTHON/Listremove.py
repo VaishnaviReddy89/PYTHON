@@ -1,0 +1,4 @@
+print("LIST REMOVE")
+FRUITS=["APPLE","BANANA","CHERRY"]
+FRUITS.remove("BANANA")
+print(FRUITS)
