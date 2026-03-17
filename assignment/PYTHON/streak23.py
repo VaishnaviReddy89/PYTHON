@@ -1,0 +1,6 @@
+print("TUPLEMETHODS")
+fruits=("apple","orange","cherry")
+x=fruits.count("apple")
+y=fruits.index("apple")
+print(x)
+print(y)
