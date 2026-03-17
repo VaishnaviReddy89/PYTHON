@@ -1,0 +1,11 @@
+print("UNPACKCOLLECTION")
+makeup=("concealer","lipbalm","lipstick")
+(lipliner,eyelashes,mascara)=makeup
+print(lipliner)
+print(eyelashes)
+print(mascara)
+makeups=("concealer","lipbalm","lipstick","foundation")
+(lipliner,eyelashes,*mascara)=makeups
+print(lipliner)
+print(eyelashes)
+print(mascara)
