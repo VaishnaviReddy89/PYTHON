@@ -1,0 +1,10 @@
+print("DICTIONARIES")
+#A DICTIONARY VALUE IS USED TO STORE THE DATA VALUES IN KEY VALUE PAIRS.
+DEPT={
+    "Name":"VAISHU REDDY",
+    "Roll No":575,
+     "Year":2023-2027
+}
+print(DEPT)
+print(len(DEPT))
+print(type(DEPT))
