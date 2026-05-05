@@ -7,8 +7,6 @@ servey={
 }
 for s in servey:
     print(s)
-    print("Print all values in the dictionary, one by one:")
-    print(servey[s])
     print("*****VALUES*******")
     for s in servey.values():
         
