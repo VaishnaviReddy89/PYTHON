@@ -3,3 +3,9 @@ for i in range(9):
         continue
     print(i)
     #skip this turn and go to next turn.
+    
+name="VAISHUR"
+for c in name:
+    if c=="R":
+        continue
+    print(c)
