@@ -10,7 +10,7 @@ for num in range(start, end + 1):
             if num % i == 0:
                 break
         else:
-            print(num, end=" ")
+            print(num)
             count += 1
 
 print("\nTotal prime numbers:", count)
