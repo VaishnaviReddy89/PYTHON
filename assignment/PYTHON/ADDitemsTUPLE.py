@@ -1,0 +1,13 @@
+print("ADD ITEMS")
+x=("iphone","samsung","realme")
+y=list(x)
+y[1]="redmi"
+x=tuple(y)
+print(y)
+xx=("iphone","samsung","realme")
+yy=list(xx)
+yy.append("nothing")
+yy.remove("iphone")
+xx=tuple(yy)
+print(yy)
+print(yy)

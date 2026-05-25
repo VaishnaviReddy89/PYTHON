@@ -1,0 +1,6 @@
+print("WHILE TUPLE")
+tuple=("apple","banana","cherry")
+i=0
+while i <len(tuple):
+    print(tuple[i])
+    

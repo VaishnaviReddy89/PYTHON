@@ -1,0 +1,9 @@
+print("STRING\t\"TAB\"")
+txt="V\ta\ti\ts\th\tu\t"
+x=txt.expandtabs(1)
+print(x)
+print(txt)
+print(txt.expandtabs(2))
+print(txt.expandtabs(3))
+print(txt.expandtabs(4))
+print(txt.expandtabs(10))

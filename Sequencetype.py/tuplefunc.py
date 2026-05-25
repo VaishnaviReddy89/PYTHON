@@ -1,0 +1,6 @@
+print("TUPLE FUNCTIONS")
+t=(1,2,4,5,6)
+print(len(t))
+print(max(t))
+print(t.count(2))
+print(t.index(4))

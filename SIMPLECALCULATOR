@@ -1,0 +1,44 @@
+X=0
+#We use a global variable when we want the same variable to be accessed and updated by multiple functions in a program.
+def add(a,b):
+        global x
+        x=a+b
+        print("Addition:" , x)
+def subtract(a,b):
+         global x
+         x=a-b
+         print("SUBTRACTION:" , a-b)
+         
+def multiply(a,b):
+         global x
+         x=a-b
+         print("multiply:" , a-b)
+def modulus(a,b):
+         global x
+         x=a-b
+         print("modulus:" , a%b)
+def Division(a,b):
+         global x
+         x=a-b
+         print("Division:" , a/b)
+def Expotetation(a,b):
+         global x
+         x=a-b
+         print("Expotetation:" , a**b)
+def INTEGER(a,b):
+         global x
+         x=a-b
+         print("Integer:" , a//b)
+         
+#function calls
+add(10,5)
+subtract(5,5)
+multiply(0,0)
+Division(3,3)
+modulus(1,2)
+Expotetation(8,6)
+INTEGER(1,6)
+#A local variable works only inside one function
+#A global variable works everywhere in the program
+
+                  
