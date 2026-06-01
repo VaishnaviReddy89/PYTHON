@@ -1,5 +1,4 @@
 x = "global"
-
 def outer():
   x = "enclosing"
   def inner():
@@ -7,6 +6,5 @@ def outer():
     print("Inner:", x)
   inner()
   print("Outer:", x)
-
 outer()
 print("Global:", x)
