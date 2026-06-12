@@ -1,0 +1,6 @@
+list1=("apple","orange","cherry")
+list2=(1,234,4)
+list3=(True,False)
+print(type(list1))
+print(type(list2))
+print(type(list3))

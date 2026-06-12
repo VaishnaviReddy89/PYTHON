@@ -1,0 +1,13 @@
+dept={
+    "Name":"VAISHU",
+    "rollno":75,
+    "cgpa":8.0
+}
+x=dept["Name"]
+y=dept.get("rollno")
+z=dept.values()
+v=dept.items()
+print(x)
+print(y)
+print(z)
+print(v)

@@ -1,0 +1,15 @@
+thisdict={
+    "brand":"BMW",
+    "model":"Mustang",
+    "year":1988
+}
+thisdict=thisdict.copy()
+print(thisdict)
+#ANOTHERMETHOD
+d1ict={
+    "brand":"BMW",
+    "model":"Mustang",
+    "year":1988
+}
+mydict=dict(d1ict)
+print(mydict)
