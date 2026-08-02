@@ -7,3 +7,6 @@ a=b=c=["vaishu"]
 print(a)
 print(b)
 print(c)
+v="reddy"
+r="Raju"
+print(v,r)
